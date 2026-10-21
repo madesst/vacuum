@@ -1,6 +1,6 @@
 module github.com/daveshanley/vacuum
 
-go 1.26.0
+go 1.26.10
 
 require (
 	charm.land/bubbles/v2 v2.2.1
@@ -20,7 +20,7 @@ require (
 	github.com/pb33f/go-yaml v0.1.1
 	github.com/pb33f/jsonpath v0.8.4
 	github.com/pb33f/jsonschema/v6 v6.0.3
-	github.com/pb33f/libasyncapi v0.0.5-0.20261021130129-edbabdcd8c1e
+	github.com/pb33f/libasyncapi v0.0.5
 	github.com/pb33f/libopenapi v0.41.6
 	github.com/pb33f/libopenapi-validator v0.16.0
 	github.com/pb33f/testify v0.1.1
