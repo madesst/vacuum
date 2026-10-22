@@ -1,5 +1,7 @@
 module github.com/daveshanley/vacuum
 
+replace github.com/pb33f/libopenapi => github.com/madesst/libopenapi v0.0.0-20261022111805-19107a33b1fd
+
 go 1.26.10
 
 require (
